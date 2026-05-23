@@ -83,7 +83,7 @@ A centralized, production-ready feedback and review management system built with
 ### 1. Clone and Install
 
 ```bash
-git clone <repository>
+git clone https://github.com/OMKARREDDY8570/collecting-users-reviews.git
 cd collecting-users-reviews
 npm install
 ```
