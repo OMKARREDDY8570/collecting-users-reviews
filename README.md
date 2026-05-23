@@ -2,7 +2,7 @@
 
 A centralized, production-ready feedback and review management system built with Next.js 14+, Tailwind CSS, and Supabase. Designed to run efficiently on Vercel's free tier using Serverless Functions.
 
-## 🌟 Features 
+## 🌟 Features  
 
 ### Public Feedback Page
 - **Dynamic Project Pages**: Accept feedback via `/feedback?project=slug`
